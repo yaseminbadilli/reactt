@@ -3,7 +3,7 @@ import {Container, Row, Col, CardImg, Card} from 'reactstrap'
 import Categories from './Categories'
 import Product from './Products'
 import Nav from "./Nav";
-import Fut from "./Fut";
+import Fut from "./Footer";
 import Menüler from "./menüler";
 
 export default class App extends React.Component{
